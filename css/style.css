@@ -1,0 +1,50 @@
+body{
+    background: grey;
+text-align: center;
+}
+
+h2{
+
+    color:red;
+    border-bottom: 4px;
+    text-transform: uppercase;
+    text-align: center;
+
+    padding-bottom: 10px;
+    margin-top:20px
+
+}
+form{
+text-transform: uppercase;
+    padding: 20px;
+    background: grey;
+
+}
+
+input, select{
+    margin: 20px;
+    padding: 5px;
+}
+lebel{
+    width:200px;
+    text-align: Right;
+    padding: 5px;
+    
+}
+
+.btn{
+    padding: 20px;
+    text-decoration:none;
+    border: 0px;
+    color: black;
+    background:palevioletred;
+    float:left;
+    text-align: center;
+    
+}
+
+button:hover{
+    color: green;
+    text-align: center;
+
+}
